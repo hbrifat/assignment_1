@@ -95,5 +95,46 @@ header {
     color: #16D887;
 }
 
+/* Plans Section */
+
+.plans {
+    margin-bottom: 130px;
+}
+
+.plans h2 {
+    text-align: center;
+    color: #151414;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin-bottom: 50px;
+}
+
+.plans .items-group {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.plans .items-group img {
+    margin-bottom: 24px;
+}
+
+.plans .items-group h3 {
+    margin-bottom: 16px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.plans .items-group p {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+}
 
 
