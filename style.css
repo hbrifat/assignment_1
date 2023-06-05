@@ -52,3 +52,48 @@ header {
     line-height: 26px;
     margin-top: 20px;
 }
+
+/* self-assessment section */
+
+.self-assess {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+
+.self-assess article {
+    padding-top: 240px;
+    width: 420px;
+}
+
+.self-assess h2 {
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 45px;
+    color: #151414;
+    padding-bottom: 24px;
+}
+
+.self-assess p {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    color: #444343;
+    padding-bottom: 18px;
+}
+
+.self-assess ul li {
+    list-style-type: none;
+    line-height: 26px;
+}
+
+.self-assess ul i {
+    padding-right: 10px;
+    color: #16D887;
+}
+
+
+
